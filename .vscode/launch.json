@@ -1,0 +1,32 @@
+{
+    // Olası öznitelikler hakkında bilgi edinmek için IntelliSense kullanın.
+    // Mevcut özniteliklerin açıklamalarını görüntülemek için üzerine gelin.
+    // Daha fazla bilgi için şu adresi ziyaret edin: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "supply_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "supply_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "supply_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ],
+    // "java.configuration.runtimes": [
+    //     {
+    //         "name": "JavaSE-21",
+    //         "path": "C:\\Program Files\\Java\\jdk-21",
+    //         "default": true
+    //     }
+    // ]
+}

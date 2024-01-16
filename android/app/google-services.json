@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293044888158",
+    "project_id": "supply-supplier-app",
+    "storage_bucket": "supply-supplier-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293044888158:android:e9e058cb5b6a9f98ec4acf",
+        "android_client_info": {
+          "package_name": "com.example.supply_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepDdQgDwGMQ1WEjMJQ4GiQ2qcQTlD3qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
